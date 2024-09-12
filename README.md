@@ -32,9 +32,10 @@ I would like to give credits to [zelkim](https://github.com/zelkim) for being th
 
 ## How to Use
 
-1. **Download the Email Filters**: Download the `mailFilters.xml` file
+1. **Download the Email Filters**
+- Download the `mailFilters.xml` file from the repository
 
-2. **Navigate to Gmail's Filter Settings**: Download the `mailFilters.xml` file
+2. **Navigate to Gmail's Filter Settings**
 
 - Open Gmail in your web browser.
 - Go to `Settings` (the gear icon in the upper-right corner).
