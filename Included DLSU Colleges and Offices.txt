@@ -1,0 +1,98 @@
+HDA
+
+
+
+Colleges
+
+[BAGCED] Br. Andrew Gonzalez College of Education
+[CCS] Collge of Computer Studies
+[CLA] College of Libaral Arts
+[COS] Colloge of Science
+[GCOE] Gokongwei College of Engineering
+[RVRCOB] Ramon V. Del Rosario College of Business
+[SIS] School of Innovation and Sustainability (Laguna Campus)
+[SoLL] School of Lifelong Learning
+[SOE] School of Economics
+[TDSOL] Tañada-Diokno School of Law / [TDCOL] Tañada-Diokno College of Law
+[IS SHS] DLSU Integrated School Senior High School
+
+
+
+Offices
+
+[AARO] Advancement & Alumni Relations Office
+[AFED] Association of Faculty and Educators of DLSU Inc.
+[ANIMO LABS]
+[ASIST] Academic Support for Instructional Services & Technology
+[BGMO] Buildings and Grounds Maintenance Office
+[CAMPUS SERVICES]
+[CAO] Culture and Arts Office
+[CCHRSO] Community, Culture and Human Resources Services Office
+[CIF] Central Instrumentation Facility
+[CONIC] Committee on National Issues and Concern
+[COSCA] Center for Social Concern & Action
+[CSWO] Civil and Sanitary Works Office
+[DIPO] DLSU Intellectual Property Office
+[DSA] Dean of Student Affairs
+[DSI] Department of  Decision Sciences & Innovation
+[DITO] DLSU Innovation and Technology Office
+[DLSUPH] De La Salle University Publishing House
+[DLSUSFI] Office of the Science Foundation, Inc.
+[ESH] Enrollment Services Hub
+[FINANCE & ACCOUNTING OFFICE]
+[FMO] Facilities Management Office
+[HSO] Health Services Office
+[HSU] Health Services Unit
+[ITEO] Institutional Testing and Evaluation Office
+[ITS] Information Technology Services Office
+[JRIG] Jesse M. Robredo Institute of Governance
+[LCIDWell] Lasallian Center for Inclusion, Diversity, and Well-Being
+[LIBRARIES]
+[LSEED] Lasallian Social Enterprise for Economic Development
+[LSPO] Lasallian Pastoral Office
+[MEWO] Mechanical and Electrical Works Office
+[NFO] NSTP and Formation Office
+[OAS] Office of Admissions and Scholarships
+[OASIS] Office of Academic Services for Integrated School
+[OCCS] Office of Counseling and Career Services
+[OCD] Office of Campus Development
+[OEDCS] Office of the Executive Director for Campus Services
+[OFFICE OF THE CHANCELLOR]
+[OCFO] Office of the Vice President for Finance
+[OFFICE OF THE PRESIDENT]
+[OFFICE OF THE PROVOST]
+[OFFICE OF THE ASSOCIATE PROVOST]
+[OFFICE OF THE SENIOR VICE PRESIDENT FOR FINANCE AND ADMINISTRATION]
+[OISP] Office of the Integrated School Principal
+[OISVP] Office of the Integrated School Vice Principal
+[ORBE] Office of the Registrar for Basic Education
+[OSA] Office of Student Affairs
+[OSD] Office of Sports Development
+[OULC] Office of the University Legal Counsel
+[OUR] Office of the University Registrar
+[OVPADMIN] Office of the Vice President for Administration
+[OVPERI] Office of the Vice President for External Relations and Internationalization
+[OVPLC] Office of the Vice President for Laguna Campus
+[OVPLM] Office of the Vice President for Lasallian Mission
+[OVPRI] Office of the Vice President for Research and Innovation
+[PUSO] Parents of University Students Organization
+[REO] Research Ethics Office
+[RGMO] Research Grants and Management Office
+[RMCA] Risk Management, Compliance, and Audit Office
+[SAFETY OFFICE]
+[SCMO] Supply Chain Management Office
+[SDFO] Student Discipline Formation Office
+[SDRC] Social Development Research Center
+[SECURITY OFFICE]
+[SLIFE] Student Leadership Involvement, Formation and Empowerment
+[SMO] Student Media Office
+[SSO] Support Services Office
+[STRATCOM] Strategic Communications Office
+[THE MUSEUM]
+[UNIVERSITY SUSTAINABILITY OFFICE]
+[USO] University Sustainability Office
+[VPRI] Office of the Vice President for Research and Innovation
+
+
+
+Others

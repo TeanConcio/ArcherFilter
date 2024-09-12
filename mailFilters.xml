@@ -1,0 +1,1851 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+
+	<title>Mail Filters</title>
+	<id>
+		tag:mail.google.com,2008:filters:
+		
+		<!-- Canvas Filters -->
+		z0000001723452576515*6610292421625574881,
+		z0000001723452577151*2221706841794678069,
+		z0000001723452577905*4134261123705792513,
+		z0000001723452578703*3563656354454774992,
+		z0000001723452579526*0165010705916762506,
+		
+		<!-- Help Desk Announcement (HDA) Filters -->
+		z0000001723452580368*4579410135835131911,
+		<!-- Colleges -->
+		z0000001723454922163*5610407098571962921,
+		z0000001723452581103*3193571917238196064,
+		z0000001723456498107*6489754142966959046,
+		z0000001723454982830*4881791364654045375,
+		z0000001723453310867*2072174160919957002,
+		z0000001723480923803*4210585014722561375,
+		z0000001723480952067*4668685899187449471,
+		z0000001723455964137*0935604563183026941,
+		z0000001723480971615*5533506244375415090,
+		z0000001723480985812*1745179458803306319,
+		z0000001723480999498*1516129710215560564,
+		z0000001723486698850*1812494348193430460,
+		<!-- Offices -->
+		z0000001723739698012*1315914917271342742,
+		z0000001726070650820*2038217182428577677,
+		z0000001726070651620*0982402146856984252,
+		z0000001723739698835*3919285268744640618,
+		z0000001726070652421*7946108235974715427,
+		z0000001723739699934*3103052912611122746,
+		z0000001726070653241*0770359512604489794,
+		z0000001726070654037*6329235793312013488
+		z0000001723739700845*4781744261112272596,
+		z0000001726070654817*6664046032553651992,
+		z0000001723739701713*1294334444622118437,
+		z0000001723739705074*5289270173371105589,
+		z0000001723740049074*4916580081638419352,
+		z0000001726070669974*5881108659183631336,
+		z0000001723740049423*6582356913270507782,
+		z0000001723740050201*5037202765283716650,
+		z0000001723740050978*1881088664579708226,
+		z0000001726070656540*6751589902598151256,
+		z0000001726070655748*0386947573370305839,
+		z0000001723740051747*0958855475945026286,
+		z0000001723740052575*2017804058072282683,
+		z0000001723740053397*0254273374777379380,
+		z0000001723740054178*1064918012976100901,
+		z0000001723740054981*8614854056144200758,
+		z0000001723740055757*2722428972697439916,
+		z0000001723740056559*8407624138777600019,
+		z0000001723740057346*1373939377019834565,
+		z0000001723740058097*5147522661922622949,
+		z0000001723740058860*0642984727120545292,
+		z0000001723740059603*3957294708360803133,
+		z0000001723740274787*3882393250404527463,
+		z0000001726070657371*6533452921935061793,
+		z0000001723740275146*8339747743241345400,
+		z0000001723740275902*7539073818703424721,
+		z0000001723740276922*3063051232887263983,
+		z0000001723740277704*2302541852701859286,
+		z0000001726070658167*3786770660839296765,
+		z0000001723740278489*1186546802837140812,
+		z0000001723740279262*1445967173285451356,
+		z0000001723740280000*4321015857608347303,
+		z0000001723740280795*5943326079414781152,
+		z0000001723740281576*5697629618837531977,
+		z0000001723740282332*7396736379949879541,
+		z0000001723740283120*1422870208823163560,
+		z0000001723740283885*2578984938313119360,
+		z0000001726070669118*2373039091771888754,
+		z0000001726070659052*6201196444990032956,
+		z0000001723740284655*3735935594733961246,
+		z0000001723740285399*4066398860326469139,
+		z0000001723740286139*1280827934240425081,
+		z0000001723740286908*3627456463710591390,
+		z0000001723740287677*7815328864295606182,
+		z0000001723740288440*7123780451190240549,
+		z0000001726070665691*0051293090091175302,
+		z0000001726070659853*2825762872712781379,
+		z0000001726070660792*2346875224154748448,
+		z0000001726070661594*7480455735704182357,
+		z0000001723740289203*4021843047156373350,
+		z0000001723740289993*3837133513659598229,
+		z0000001723740290744*4462877219505310793,
+		z0000001723740291553*5238324482954586544,
+		z0000001726070662438*7237430914791161112,
+		z0000001723740292310*5395758683084624126,
+		z0000001726070663264*7590700558868308597,
+		z0000001723740293389*4815606870539635471,
+		z0000001726070664059*5374589698349692286,
+		z0000001723740294193*0840495803314175820,
+		z0000001723740294962*1960875953190331262,
+		z0000001723740295756*9136856567031757421,
+		z0000001723740296521*3494576391021448231,
+		z0000001726070664866*4341036883009917887,
+		z0000001723740297277*2167136373169015864,
+		z0000001723452582120*4474677371751869406,
+		<!-- Others -->
+		z0000001726070668311*4224709183539142900,
+
+		<!-- Miscellaneous -->
+		z0000001726070667329*4116934138784800691,
+		z0000001726070666512*5808803149458496582
+	</id>
+	<updated>2024-08-12T16:43:49Z</updated>
+	<author>
+		<name>Tean Jeremy Concio</name>
+		<email>tean_concio@dlsu.edu.ph</email>
+	</author>
+	
+	
+	
+	
+
+
+
+
+
+	
+	<!--
+		Canvas Filters
+	-->
+	<entry> <!-- Canvas -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723452576515*6610292421625574881</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='notifications@instructure.com'/>
+		<apps:property name='label' value='Canvas'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- Canvas/Announcements -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723452577151*2221706841794678069</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='notifications@instructure.com'/>
+		<apps:property name='hasTheWord' value='&quot;View Announcement&quot;'/>
+		<apps:property name='label' value='Canvas/Announcements'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- Canvas/Assignments -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723452577905*4134261123705792513</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='notifications@instructure.com'/>
+		<apps:property name='subject' value='
+			&quot;Assigned peer review for&quot; OR 
+			&quot;Assignment Due Date Changed: &quot; OR 
+			&quot;Assignment Created - &quot;'/>
+		<apps:property name='label' value='Canvas/Assignments'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- Canvas/Grades -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723452578703*3563656354454774992</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='notifications@instructure.com'/>
+		<apps:property name='subject' value='
+			&quot;Assignment Graded: &quot; OR 
+			&quot;Grade Changed: &quot; OR 
+			&quot;Submission Posted: &quot;'/>
+		<apps:property name='label' value='Canvas/Grades'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- Canvas/Messages -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723452579526*0165010705916762506</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='notifications@instructure.com'/>
+		<apps:property name='subject' value='&quot; just sent you a message in Canvas.&quot;'/>
+		<apps:property name='label' value='Canvas/Messages'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	
+	
+	
+	
+
+
+
+
+
+	
+	<!--
+		Help Desk Announcement (HDA) Filters
+	-->
+	<entry> <!-- HDA -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723452580368*4579410135835131911</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='label' value='HDA'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	
+
+
+	
+	<!-- 
+		Colleges
+	-->
+	<entry> <!-- BAGCED -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723454922163*5610407098571962921</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[BAGCED]&quot; OR 
+			(subject:&quot;[ELMD]&quot; AND (&quot;Department of Educational Leadership &amp; Management&quot; OR &quot;Educational Leadership &amp; Management Department&quot;)) OR 
+			(subject:&quot;[DSE]&quot; AND &quot;Department of Science Education&quot;)
+		'/>
+		<apps:property name='label' value='HDA/Colleges/[BAGCED] Br. Andrew Gonzalez FSC College of Education'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- CCS -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723452581103*3193571917238196064</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='subject' value='&quot;[CCS]&quot;'/>
+		<apps:property name='label' value='HDA/Colleges/[CCS] College of Computer Studies'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- CLA -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723456498107*6489754142966959046</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[CLA]&quot; OR 
+			(subject:&quot;[COMMUNICATION]&quot; AND &quot;Department of Communication&quot;) OR 
+			(subject:&quot;[DIS]&quot; AND &quot;Department of International Studies&quot;) OR 
+			(subject:&quot;[DTRE]&quot; AND &quot;Department of Theology and Religious Education&quot;) OR 
+			(subject:&quot;[PHILOSOPHY]&quot; AND (&quot;Department of Philosophy&quot; OR &quot;Philosophy Department&quot;)) OR 
+			(subject:&quot;[POLSCI]&quot; AND (&quot;Department of Political Science and Development Studies&quot;))
+		'/>
+		<apps:property name='label' value='HDA/Colleges/[CLA] College of Liberal Arts'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- COS -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723454982830*4881791364654045375</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[COS]&quot; OR 
+			(subject:&quot;[BIOLOGY]&quot; AND (&quot;Department of Biology&quot; OR &quot;Biology Department&quot;)) OR 
+			(subject:&quot;[CHEMISTRY]&quot; AND (&quot;Department of Chemistry&quot; OR &quot;Chemistry Department&quot;)) OR 
+			(subject:&quot;[PHYSICS]&quot; AND (&quot;Department of Physics&quot; OR &quot;Physics Department&quot;))
+		'/>
+		<apps:property name='label' value='HDA/Colleges/[COS] College of Science'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- GCOE -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723453310867*2072174160919957002</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='subject' value='&quot;[GCOE]&quot; OR &quot;[GCE]&quot;'/>
+		<apps:property name='label' value='HDA/Colleges/[GCOE] Gokongwei College of Engineering'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- RVRCOB -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723480923803*4210585014722561375</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[RVRCOB]&quot; OR 
+			(subject:&quot;[DAC]&quot; AND &quot;Department of Accountancy&quot;) OR 
+			(subject:&quot;[DMO]&quot; AND &quot;Department of Management and Organization&quot;)
+		'/>
+		<apps:property name='label' value='HDA/Colleges/[RVRCOB] Ramon V. Del Rosario College of Business'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- SIS -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723480952067*4668685899187449471</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='subject' value='&quot;[SIS]&quot; OR &quot;[SCHOOL OF INNOVATION AND SUSTAINABILITY]&quot; OR &quot;Laguna&quot;'/>
+		<apps:property name='label' value='HDA/Colleges/[SIS] School of Innovation and Sustainability (Laguna Campus)'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- SOE -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723455964137*0935604563183026941</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='subject' value='&quot;[CLT-SOE]&quot; OR &quot;[SOE]&quot;'/>
+		<apps:property name='label' value='HDA/Colleges/[CLT-SOE] Carlos L. Tiu School of Economics'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- SoLL -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723480971615*5533506244375415090</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='subject' value='&quot;[SoLL]&quot;'/>
+		<apps:property name='label' value='HDA/Colleges/[SoLL] School of Lifelong Learning'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- TDSOL -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723480985812*1745179458803306319</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='subject' value='&quot;[TDSOL]&quot; OR &quot;[TDCOL]&quot;'/>
+		<apps:property name='label' value='HDA/Colleges/[TDSOL] Tanada-Diokno School of Law'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- IS SHS -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723480999498*1516129710215560564</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='subject' value='&quot;IS&quot; OR &quot;SHS&quot; OR &quot;Senior High&quot;'/>
+		<apps:property name='hasTheWord' value='&quot;Integrated School&quot; OR &quot;SHS&quot; OR &quot;Senior High&quot;'/>
+		<apps:property name='label' value='HDA/Colleges/[IS SHS] DLSU Integrated School Senior High School'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- Colleges -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723486698850*1812494348193430460</id>
+		<updated>2024-08-12T18:19:44Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			label:hda-colleges-[bagced]-br.-andrew-gonzalez-fsc-college-of-education OR 
+			label:hda-colleges-[ccs]-college-of-computer-studies OR 
+			label:hda-colleges-[cla]-college-of-liberal-arts OR 
+			label:hda-colleges-[cos]-college-of-science OR 
+			label:hda-colleges-[gcoe]-gokongwei-college-of-engineering OR 
+			label:hda-colleges-[rvrcob]-ramon-v.-del-rosario-college-of-business OR 
+			label:hda-colleges-[sis]-school-of-innovation-and-sustainability--laguna-campus- OR 
+			label:hda-colleges-[clt-soe]-carlos-l.-tiu-school-of-economics OR 
+			label:hda-colleges-[soll]-school-of-lifelong-learning OR 
+			label:hda-colleges-[tdsol]-tanada-diokno-school-of-law OR 
+			label:hda-colleges-[is-shs]-dlsu-integrated-school-senior-high-school
+		'/>
+		<apps:property name='label' value='HDA/Colleges'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	
+	
+
+
+
+	<!-- 
+		Offices
+	-->
+	<entry> <!-- [AARO] Advancement & Alumni Relations Office -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723739698012*1315914917271342742</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			(subject:&quot;[AARO]&quot; AND &quot;Advancement &amp; Alumni Relations Office&quot;)
+		'/>
+		<apps:property name='label' value='HDA/Offices/[AARO] Advancement &amp; Alumni Relations Office'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [AFED] Association of Faculty and Educators of DLSU Inc. -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001726070650820*2038217182428577677</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			(subject:&quot;[AFED]&quot; AND &quot;Association of Faculty and Educators of DLSU Inc.&quot;)
+		'/>
+		<apps:property name='label' value='HDA/Offices/[AFED] Association of Faculty and Educators of DLSU Inc.'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [ANIMO LABS] -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001726070651620*0982402146856984252</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			(subject:&quot;[ANIMO LABS]&quot;)
+		'/>
+		<apps:property name='label' value='HDA/Offices/[ANIMO LABS]'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [ASIST] Academic Support for Instructional Services & Technology -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:filter:z0000001723739698835*3919285268744640618</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			(subject:&quot;[ASIST]&quot; AND &quot;Academic Support for Instructional Services &amp; Technology&quot;)
+		'/>
+		<apps:property name='label' value='HDA/Offices/[ASIST] Academic Support for Instructional Services &amp; Technology'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [BGMO] Buildings and Grounds Maintenance Office -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001726070652421*7946108235974715427</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			(subject:&quot;[BGMO]&quot;)
+		'/>
+		<apps:property name='label' value='HDA/Offices/[BGMO] Buildings and Grounds Maintenance Office'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [CAMPUS SERVICES] -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723739699934*3103052912611122746</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[CAMPUS SERVICES]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[CAMPUS SERVICES]'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [CAO] Culture and Arts Office -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001726070653241*0770359512604489794</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			(subject:&quot;[CAO]&quot; AND &quot;Culture and Arts Office&quot;)
+		'/>
+		<apps:property name='label' value='HDA/Offices/[CAO] Culture and Arts Office'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [CCHRSO] Community, Culture and Human Resources Services Office -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001726070654037*6329235793312013488</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			(subject:&quot;[CCHRSO]&quot;)
+		'/>
+		<apps:property name='label' value='HDA/Offices/[CCHRSO] Community, Culture and Human Resources Services Office'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [CIF] Central Instrumentation Facility -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723739700845*4781744261112272596</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[CIF]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[CIF] Central Instrumentation Facility'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [CONIC] Committee on National Issues and Concern -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001726070654817*6664046032553651992</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			(subject:&quot;[CONIC]&quot; AND &quot;Committee on National Issues and Concern&quot;)
+		'/>
+		<apps:property name='label' value='HDA/Offices/[CONIC] Committee on National Issues and Concern'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [COSCA] Center for Social Concern & Action -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723739701713*1294334444622118437</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[COSCA]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[COSCA] Center for Social Concern &amp; Action'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [CSWO] Civil and Sanitary Works Office -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723739705074*5289270173371105589</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[CSWO]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[CSWO] Civil and Sanitary Works Office'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [DIPO] DLSU Intellectual Property Office -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740049074*4916580081638419352</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			(subject:&quot;[DIPO]&quot; AND &quot;DLSU Intellectual Property Office&quot;)
+		'/>
+		<apps:property name='label' value='HDA/Offices/[DIPO] DLSU Intellectual Property Office'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [DSA] Dean of Student Affairs -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001726070669974*5881108659183631336</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			(subject:&quot;[DSA]&quot; AND &quot;Dean of Student Affairs)
+		'/>
+		<apps:property name='label' value='HDA/Offices/[DSA] Dean of Student Affairs'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [DSI] Department of  Decision Sciences & Innovation -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740049423*6582356913270507782</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			(subject:&quot;[DSI]&quot; AND &quot;Department of  Decision Sciences &amp; Innovation&quot;)
+		'/>
+		<apps:property name='label' value='HDA/Offices/[DSI] Department of  Decision Sciences &amp; Innovation'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [DITO] DLSU Innovation and Technology Office -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740050201*5037202765283716650</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			(subject:&quot;[DITO]&quot; AND &quot;DLSU Innovation and Technology Office&quot;)
+		'/>
+		<apps:property name='label' value='HDA/Offices/[DITO] DLSU Innovation and Technology Office'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [DLSUPH] De La Salle University Publishing House -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740050978*1881088664579708226</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			(subject:&quot;[DLSUPH]&quot; AND &quot;De La Salle University Publishing House&quot;)
+		'/>
+		<apps:property name='label' value='HDA/Offices/[DLSUPH] De La Salle University Publishing House'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [DLSUSFI] Office of the Science Foundation, Inc. -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001726070656540*6751589902598151256</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			(subject:&quot;[DLSUSFI]&quot;)
+		'/>
+		<apps:property name='label' value='HDA/Offices/[DLSUSFI] Office of the Science Foundation, Inc.'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [ESH] Enrollment Services Hub -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001726070655748*0386947573370305839</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			(subject:&quot;[ESH]&quot; AND &quot;Enrollment Services Hub&quot;)
+		'/>
+		<apps:property name='label' value='HDA/Offices/[ESH] Enrollment Services Hub'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [FINANCE & ACCOUNTING OFFICE] -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740051747*0958855475945026286</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[FINANCE &amp; ACCOUNTING OFFICE]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[FINANCE &amp; ACCOUNTING OFFICE]'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [FMO] Facilities Management Office -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740052575*2017804058072282683</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[FMO]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[FMO] Facilities Management Office'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [HSO] Health Services Office -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740053397*0254273374777379380</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[HSO]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[HSO] Health Services Office'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [HSU] Health Services Unit -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740054178*1064918012976100901</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[HSU]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[HSU] Health Services Unit'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [ITEO] Institutional Testing and Evaluation Office -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740054981*8614854056144200758</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[ITEO]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[ITEO] Institutional Testing and Evaluation Office'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [ITS] Information Technology Services Office -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740055757*2722428972697439916</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			(subject:&quot;[ITS]&quot; AND &quot;Information Technology Services Office&quot;) OR 
+			(subject:&quot;[ITS]&quot; AND &quot;Information Technology Services (ITS) Office&quot;) OR
+			(subject:&quot;[ITS]&quot; AND &quot;Office of the Vice President for Information Technology&quot;)
+		'/>
+		<apps:property name='label' value='HDA/Offices/[ITS] Information Technology Services Office'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [JRIG] Jesse M. Robredo Institute of Governance -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740056559*8407624138777600019</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[JRIG]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[JRIG] Jesse M. Robredo Institute of Governance'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [LCIDWell] Lasallian Center for Inclusion, Diversity, and Well-Being -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740057346*1373939377019834565</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[LCIDWell]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[LCIDWell] Lasallian Center for Inclusion, Diversity, and Well-Being'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	
+	<entry> <!-- [LIBRARIES] -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740058097*5147522661922622949</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[LIBRARIES]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[LIBRARIES]'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [LSEED] Lasallian Social Enterprise for Economic Development -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740058860*0642984727120545292</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[LSEED]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[LSEED] Lasallian Social Enterprise for Economic Development'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [LSPO] Lasallian Pastoral Office -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740059603*3957294708360803133</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[LSPO]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[LSPO] Lasallian Pastoral Office'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [MEWO] Mechanical and Electrical Works Office -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740274787*3882393250404527463</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[MEWO]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[MEWO] Mechanical and Electrical Works Office'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [NFO] NSTP and Formation Office -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001726070657371*6533452921935061793</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			(subject:&quot;[NFO]&quot; AND &quot;NSTP and Formation Office&quot;)
+		'/>
+		<apps:property name='label' value='HDA/Offices/[NFO] NSTP and Formation Office'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [OAS] Office of Admissions and Scholarships -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740275146*8339747743241345400</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			(subject:&quot;[OAS]&quot; AND &quot;Office of Admissions and Scholarships&quot;) OR
+			(subject:&quot;[OAS]&quot; AND &quot;Admissions and Scholarships Office&quot;)
+		'/>
+		<apps:property name='label' value='HDA/Offices/[OAS] Office of Admissions and Scholarships'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [OASIS] Office of Academic Services for Integrated School -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740275902*7539073818703424721</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			(subject:&quot;[OASIS]&quot; AND &quot;Office of Academic Services for Integrated School&quot;)
+		'/>
+		<apps:property name='label' value='HDA/Offices/[OASIS] Office of Academic Services for Integrated School'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [OCCS] Office of Counseling and Career Services -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740276922*3063051232887263983</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[OCCS]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[OCCS] Office of Counseling and Career Services'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [OCD] Office of Campus Development -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740277704*2302541852701859286</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[OCD]&quot; OR
+			subject:&quot;[TANGGAPAN NG CAMPUS DEVELOPMENT]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[OCD] Office of Campus Development'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [OEDCS] Office of the Executive Director for Campus Services -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001726070658167*3786770660839296765</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			(subject:&quot;[OEDCS]&quot;)
+		'/>
+		<apps:property name='label' value='HDA/Offices/[OEDCS] Office of the Executive Director for Campus Services'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [OFFICE OF THE CHANCELLOR] -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740278489*1186546802837140812</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[OFFICE OF THE CHANCELLOR]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[OFFICE OF THE CHANCELLOR]'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [OCFO] Office of the Vice President for Finance -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740279262*1445967173285451356</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[OCFO]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[OCFO] Office of the Vice President for Finance'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [OFFICE OF THE PRESIDENT] -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740280000*4321015857608347303</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[OFFICE OF THE PRESIDENT]&quot; OR
+			subject:&quot;[​TANGGAPAN NG PANGULO]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[OFFICE OF THE PRESIDENT]'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [OFFICE OF THE PROVOST] -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740280795*5943326079414781152</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[OFFICE OF THE PROVOST]&quot; OR
+			subject:&quot;[TANGGAPAN NG PROVOST]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[OFFICE OF THE PROVOST]'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [OFFICE OF THE ASSOCIATE PROVOST] -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740281576*5697629618837531977</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[OFFICE OF THE ASSOCIATE PROVOST]&quot; OR
+			subject:&quot;[​TANGGAPAN NG ASSOCIATE PROVOST]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[OFFICE OF THE ASSOCIATE PROVOST]'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [OFFICE OF THE SENIOR VICE PRESIDENT FOR FINANCE AND ADMINISTRATION] -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740282332*7396736379949879541</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:[OFFICE OF THE SENIOR VICE PRESIDENT FOR FINANCE AND ADMINISTRATION] OR 
+			subject:[OFFICE OF THE SVP FOR FINANCE AND ADMINISTRATION]
+		'/>
+		<apps:property name='label' value='HDA/Offices/[OFFICE OF THE SENIOR VICE PRESIDENT FOR FINANCE AND ADMINISTRATION]'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [OISP] Office of the Integrated School Principal -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740283120*1422870208823163560</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[OISP]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[OISP] Office of the Integrated School Principal'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [OISVP] Office of the Integrated School Vice Principal -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740283885*2578984938313119360</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[OISVP]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[OISVP] Office of the Integrated School Vice Principal'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [ORBE] Office of the Registrar for Basic Education -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001726070669118*2373039091771888754</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[ORBE]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[ORBE] Office of the Registrar for Basic Education'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [OSA] Office of Student Affairs -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001726070659052*6201196444990032956</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			(subject:&quot;[OSA]&quot; AND &quot;Office of Student Affairs&quot;)
+		'/>
+		<apps:property name='label' value='HDA/Offices/[OSA] Office of Student Affairs'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [OSD] Office of Sports Development -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740284655*3735935594733961246</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			(subject:&quot;[OSD]&quot; AND &quot;Office of Sports Development&quot;)
+		'/>
+		<apps:property name='label' value='HDA/Offices/[OSD] Office of Sports Development'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [OULC] Office of the University Legal Counsel -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740285399*4066398860326469139</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[OULC]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[OULC] Office of the University Legal Counsel'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [OUR] Office of the University Registrar -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740286139*1280827934240425081</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			(subject:&quot;[OUR]&quot; AND &quot;Office of the University Registrar&quot;)
+		'/>
+		<apps:property name='label' value='HDA/Offices/[OUR] Office of the University Registrar'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [OVPADMIN] Office of the Vice President for Administration -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740286908*3627456463710591390</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[OVPADMIN]&quot; OR 
+			subject:&quot;[OVPADMI]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[OVPADMIN] Office of the Vice President for Administration'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [OVPERI] Office of the Vice President for External Relations and Internationalization -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740287677*7815328864295606182</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[OVPERI]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[OVPERI] Office of the Vice President for External Relations and Internationalization'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [OVPLC] Office of the Vice President for Laguna Campus -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740288440*7123780451190240549</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[OVPLC]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[OVPLC] Office of the Vice President for Laguna Campus'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [OVPLM] Office of the Vice President for Lasallian Mission -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001726070665691*0051293090091175302</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[OVPLM]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[OVPLM] Office of the Vice President for Lasallian Mission'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [OVPRI] Office of the Vice President for Research and Innovation -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001726070659853*2825762872712781379</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			(subject:&quot;[OVPRI]&quot;)
+		'/>
+		<apps:property name='label' value='HDA/Offices/[OVPRI] Office of the Vice President for Research and Innovation'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [PUSO] Parents of University Students Organization -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001726070660792*2346875224154748448</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			(subject:&quot;[PUSO]&quot; AND &quot;Parents of University Students Organization&quot;)
+		'/>
+		<apps:property name='label' value='HDA/Offices/[PUSO] Parents of University Students Organization'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [REO] Research Ethics Office -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001726070661594*7480455735704182357</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			(subject:&quot;[REO]&quot; AND &quot;Research Ethics Office&quot;)
+		'/>
+		<apps:property name='label' value='HDA/Offices/[REO] Research Ethics Office'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [RGMO] Research Grants and Management Office -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740289203*4021843047156373350</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[RGMO]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[RGMO] Research Grants and Management Office'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [RMCA] Risk Management, Compliance, and Audit Office -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740289993*3837133513659598229</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[RMCA]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[RMCA] Risk Management, Compliance, and Audit Office'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [SAFETY OFFICE] -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740290744*4462877219505310793</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[SAFETY OFFICE]&quot; OR
+			(subject:&quot;[SO]&quot; AND &quot;Safety Office&quot;) OR 
+			(subject:&quot;[USO]&quot; AND &quot;Safety Office&quot;)
+		'/>
+		<apps:property name='label' value='HDA/Offices/[SAFETY OFFICE]'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [SDFO] Student Discipline Formation Office -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740291553*5238324482954586544</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[SDFO]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[SDFO] Student Discipline Formation Office'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [SCMO] Supply Chain Management Office -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001726070662438*7237430914791161112</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			(subject:&quot;[SCMO]&quot; AND &quot;Supply Chain Management Office&quot;)
+		'/>
+		<apps:property name='label' value='HDA/Offices/[SCMO] Supply Chain Management Office'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [SDRC] Social Development Research Center -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740292310*5395758683084624126</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[SDRC]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[SDRC] Social Development Research Center'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [SECURITY OFFICE] -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001726070663264*7590700558868308597</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			(subject:&quot;[SECURITY OFFICE]&quot;)
+		'/>
+		<apps:property name='label' value='HDA/Offices/[SECURITY OFFICE]'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [SLIFE] Student Leadership Involvement, Formation and Empowerment -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740293389*4815606870539635471</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[SLIFE]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[SLIFE] Student Leadership Involvement, Formation and Empowerment'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [SMO] Student Media Office -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001726070664059*5374589698349692286</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			(subject:&quot;[SMO]&quot; AND &quot;Student Media Office&quot;)
+		'/>
+		<apps:property name='label' value='HDA/Offices/[SMO] Student Media Office'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [SSO] Support Services Office -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740294193*0840495803314175820</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			(subject:&quot;[SSO]&quot; AND &quot;Support Services Office&quot;)
+		'/>
+		<apps:property name='label' value='HDA/Offices/[SSO] Support Services Office'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [STRATCOM] Strategic Communications Office -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740294962*1960875953190331262</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[STRATCOM]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[STRATCOM] Strategic Communications Office'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [THE MUSEUM] -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740295756*9136856567031757421</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[THE MUSEUM]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[THE MUSEUM]'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [UNIVERSITY SUSTAINABILITY OFFICE] -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740296521*3494576391021448231</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[UNIVERSITY SUSTAINABILITY OFFICE]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[UNIVERSITY SUSTAINABILITY OFFICE]'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [USO] University Sustainability Office -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001726070664866*4341036883009917887</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			(subject:&quot;[USO]&quot; AND &quot;University Sustainability Office&quot;)
+		'/>
+		<apps:property name='label' value='HDA/Offices/[USO] University Sustainability Office'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- [VPRI] Office of the Vice President for Research and Innovation -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723740297277*2167136373169015864</id>
+		<updated>2024-08-12T16:43:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			subject:&quot;[VPRI]&quot;
+		'/>
+		<apps:property name='label' value='HDA/Offices/[VPRI] Office of the Vice President for Research and Innovation'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- Offices -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001723452582120*4474677371751869406</id>
+		<updated>2024-08-12T18:19:44Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			label:hda-offices-[aaro]-advancement---alumni-relations-office OR 
+			label:hda-offices-[afed]-association-of-faculty-and-educators-of-dlsu-inc. OR 
+			label:hda-offices-[animo-labs] OR 
+			label:hda-offices-[asist]-academic-support-for-instructional-services---technology OR 
+			label:hda-offices-[bgmo]-buildings-and-grounds-maintenance-office OR 
+			label:hda-offices-[campus-services] OR 
+			label:hda-offices-[cao]-culture-and-arts-office OR 
+			label:hda-offices-[cchrso]-community,-culture-and-human-resources-services-office OR 
+			label:hda-offices-[cif]-central-instrumentation-facility OR 
+			label:hda-offices-[conic]-committee-on-national-issues-and-concern OR 
+			label:hda-offices-[cosca]-center-for-social-concern---action OR 
+			label:hda-offices-[cswo]-civil-and-sanitary-works-office OR 
+			label:hda-offices-[dipo]-dlsu-intellectual-property-office OR 
+			label:hda-offices-[dsa]-dean-of-student-affairs OR 
+			label:hda-offices-[dsi]-department-of--decision-sciences---innovation OR 
+			label:hda-offices-[dito]-dlsu-innovation-and-technology-office OR 
+			label:hda-offices-[dlsuph]-de-la-salle-university-publishing-house OR 
+			label:hda-offices-[dlsusfi]-office-of-the-science-foundation,-inc. OR 
+			label:hda-offices-[esh]-enrollment-services-hub OR 
+			label:hda-offices-[finance---accounting-office] OR 
+			label:hda-offices-[fmo]-facilities-management-office OR 
+			label:hda-offices-[hso]-health-services-office OR 
+			label:hda-offices-[hsu]-health-services-unit OR 
+			label:hda-offices-[iteo]-institutional-testing-and-evaluation-office OR 
+			label:hda-offices-[its]-information-technology-services-office OR 
+			label:hda-offices-[jrig]-jesse-m.-robredo-institute-of-governance OR 
+			label:hda-offices-[lcidwell]-lasallian-center-for-inclusion,-diversity,-and-well-being OR 
+			label:hda-offices-[libraries] OR 
+			label:hda-offices-[lseed]-lasallian-social-enterprise-for-economic-development OR 
+			label:hda-offices-[lspo]-lasallian-pastoral-office OR 
+			label:hda-offices-[mewo]-mechanical-and-electrical-works-office OR 
+			label:hda-offices-[nfo]-nstp-and-formation-office OR 
+			label:hda-offices-[oas]-office-of-admissions-and-scholarships OR 
+			label:hda-offices-[oasis]-office-of-academic-services-for-integrated-school OR 
+			label:hda-offices-[occs]-office-of-counseling-and-career-services OR 
+			label:hda-offices-[ocd]-office-of-campus-development OR 
+			label:hda-offices-[oedcs]-office-of-the-executive-director-for-campus-services OR 
+			label:hda-offices-[office-of-the-chancellor] OR 
+			label:hda-offices-[ocfo]-office-of-the-vice-president-for-finance OR 
+			label:hda-offices-[office-of-the-president] OR 
+			label:hda-offices-[office-of-the-provost] OR 
+			label:hda-offices-[office-of-the-associate-provost] OR 
+			label:hda-offices-[office-of-the-senior-vice-president-for-finance-and-administration] OR 
+			label:hda-offices-[oisp]-office-of-the-integrated-school-principal OR 
+			label:hda-offices-[oisvp]-office-of-the-integrated-school-vice-principal OR 
+			label:hda-offices-[orbe]-office-of-the-registrar-for-basic-education OR 
+			label:hda-offices-[osa]-office-of-student-affairs OR 
+			label:hda-offices-[osd]-office-of-sports-development OR 
+			label:hda-offices-[oulc]-office-of-the-university-legal-counsel OR 
+			label:hda-offices-[our]-office-of-the-university-registrar OR 
+			label:hda-offices-[ovpadmin]-office-of-the-vice-president-for-administration OR 
+			label:hda-offices-[ovperi]-office-of-the-vice-president-for-external-relations-and-internationalization OR 
+			label:hda-offices-[ovplc]-office-of-the-vice-president-for-laguna-campus OR 
+			label:hda-offices-[ovplm]-office-of-the-vice-president-for-lasallian-mission OR 
+			label:hda-offices-[ovpri]-office-of-the-vice-president-for-research-and-innovation OR 
+			label:hda-offices-[puso]-parents-of-university-students-organization OR 
+			label:hda-offices-[reo]-research-ethics-office OR 
+			label:hda-offices-[rgmo]-research-grants-and-management-office OR 
+			label:hda-offices-[rmca]-risk-management,-compliance,-and-audit-office OR 
+			label:hda-offices-[safety-office] OR 
+			label:hda-offices-[scmo]-supply-chain-management-office OR 
+			label:hda-offices-[sdfo]-student-discipline-formation-office OR 
+			label:hda-offices-[sdrc]-social-development-research-center OR 
+			label:hda-offices-[security-office] OR 
+			label:hda-offices-[slife]-student-leadership-involvement,-formation-and-empowerment OR 
+			label:hda-offices-[smo]-student-media-office OR 
+			label:hda-offices-[sso]-support-services-office OR 
+			label:hda-offices-[stratcom]-strategic-communications-office OR 
+			label:hda-offices-[the-museum] OR 
+			label:hda-offices-[university-sustainability-office] OR 
+			label:hda-offices-[uso]-university-sustainability-office OR 
+			label:hda-offices-[vpri]-office-of-the-vice-president-for-research-and-innovation
+		'/>
+		<apps:property name='label' value='HDA/Offices'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+
+
+
+
+	<!-- 
+		Others
+	-->
+	<entry> <!-- Others -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001726070668311*4224709183539142900</id>
+		<updated>2024-08-12T18:19:44Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='hasTheWord' value='
+			label:hda AND 
+			(NOT label:hda-colleges) AND 
+			(NOT label:hda-offices) 
+		'/>
+		<apps:property name='label' value='HDA/Others'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+
+
+
+
+
+
+
+
+
+	<!-- 
+		Miscellaneous
+	-->
+	<entry> <!-- DLSU Cashier -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001726070667329*4116934138784800691</id>
+		<updated>2024-08-12T18:19:44Z</updated>
+		<content></content>
+		<apps:property name='from' value='cashiers@dlsu.edu.ph'/>
+		<apps:property name='label' value='DLSU Cashier'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+	<entry> <!-- Active Directory -->
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001726070666512*5808803149458496582</id>
+		<updated>2024-08-12T18:19:44Z</updated>
+		<content></content>
+		<apps:property name='from' value='noreply@dlsu.edu.ph'/>
+		<apps:property name='label' value='Active Directory'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+</feed>
