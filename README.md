@@ -1,73 +1,60 @@
-# DLSU Mail Filters
-
-Welcome to the **DLSU Mail Filters** GitHub repository! 📧
+# ArcherFilter
 
 ![Gmail Filters](https://img.shields.io/badge/Gmail-Filters-blue.svg)
 
 ## Description
 
-The **DLSU Mail Filters** repository is designed to make your Gmail experience smoother and more organized, especially when dealing with a flood of emails from different offices within De La Salle University. This repository contains a collection of XML files that can be easily imported into your Gmail account to set up filters for sorting and managing your incoming emails.
+The **ArcherFilter** repository is a collection of Gmail Email Filters that aims to make your email-management experience smoother and more organized, especially when dealing with the flood (spam) of emails from different offices within De La Salle University. The repository includes a consolidated XML file of Email Filters that can be easily imported into your Gmail account to set up Labels for sorting and managing your incoming emails.
 
-## Offices Included (As of: 8/29/2023)
-- AARO
-- MATHEMATICS AND STATISTICS
-- COMMUNICATION
-- COS
-- ISE
-- OCD
-- OSD
-- BAGCED
-- CESDR
-- DELM
-- SOE
-- LSEED
-- DAC
-- OFFICE OF THE PRESIDENT
-- STRATCOM
-- DSE
-- DLIT
-- DIS
-- BNSCWC
-- DFM
-- OUR
+## Included Offices (As of: 9/12/2024)
+Please refer to "Included DLSU Colleges and Offices.txt".
+Also includes miscellaneous filters like for Canvas, Active Directory, and DLSU Cashier.
+
+---
 
 ## How to Use
 
-1. **Clone the Repository**: Start by cloning this repository to your local machine using the following command:
+1. **Download the Email Filters**: Download the `mailFilters.xml` file
 
-```shell
-git clone https://github.com/your-username/DLSU-Mail-Filters.git
- ```
-
-or download this repository directly.
-
----
-
-2. **Choose a Filter (recommended)**: Download the `_CONSOLIDATED (all mail).xml` file
-   ### or
-   browse through the `officers` directory to find XML files corresponding to individual DLSU offices. These XML files contain the filter configurations.
-
----
-
-3. **Import Filters to Gmail**:
+2. **Navigate to Gmail's Filter Settings**: Download the `mailFilters.xml` file
 - Open Gmail in your web browser.
 - Go to `Settings` (the gear icon in the upper-right corner).
+- Click `See All Settings` to go to Gmail's Main Settings Page.
 - Navigate to the `Filters and Blocked Addresses` tab.
-- Scroll down and click on `Import filters`.
-- Select the desired XML file from the cloned repository's `filters` directory.
-- Click on the `Open File` button to import the filter.
-- If you downloaded the consolidated file, enable/disable specific offices corresponding to your preferance.
 
-Please note that this repository is currently a work in progress. New offices and filters will be added regularly to provide a comprehensive set of filters that cover various aspects of university communication.
+3. **Import and Load Filters**:
+- Scroll down top the bottom of the page and click on `Import filters`.
+- Click `Choose File`, select the downloaded `mailFilters.xml` file, and click `Open file`.
+- Select the desired Email Filters from specific colleges/offices to import, or just keep them all selected.
+- Click `Create Filters` to start importing the Email Filters
+   - You can also select `Apply new filters to existing email.` before running to apply the filters to existing emails too. (Note: This will take a while)
+
+**Note**:
+- In case the importing freezes due to the sheer amount of Email Filters being added:
+   - Refresh the page (Ignore the saving warning).
+   - Go back to Gmail's Main Settings Page.
+   - Navigate to the `Labels` tab.
+   - Check what was the last imported Label.
+   - Repeat step 3, but unselect all Email Filters until the last imported Label you saw.
+   - Click `Create Filters`.
+   - Repeat the process if it freezes again.
+
+**Tips**:
+- You can edit Email Filters to automatically do tasks such as:
+   - Archiving emails from colleges/offices you don't want to hear from.
+   - Marking emails from essential colleges/offices as important.
+- You can give the generated Labels colors for better visualization.
 
 ---
 
-## Contribution
+## Credits
 
-We welcome contributions to improve and expand the **DLSU Mail Filters** repository. If you have a new office's filter configuration to add, or if you've spotted an issue, feel free to fork this repository, make your changes, and submit a pull request. Let's collaborate to make email management easier for the entire DLSU community!
+I would like to give credits to [zelkim](https://github.com/zelkim) for being the first to create a repository for [DLSU Email Filters](https://github.com/zelkim/DLSU-Mail-Filter). His work was the one that inspired me to create this project.
 
 ## Disclaimer
 
 These filters are provided as-is and might not cover all scenarios or specific use cases. Make sure to review the filters after importing to ensure they match your preferences and requirements.
 
----
+Please note that this repository is still currently a work in progress. New offices and filters will be added from time to time to provide a comprehensive set of filters that cover various aspects of university communication.
+
+We are not liable for any damages or risks associated with using the Email Filters.
